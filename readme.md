@@ -56,6 +56,8 @@ _(ملاحظة: بما أن جيت هب لا يعرض ملفات Excel بشكل 
 
 ## 📞 للتواصل (Contact)
 
-- **Linked In:** [(https://www.linkedin.com/in/ibrahim-mohamed-bassiouni/)]
-- **Portfolio:** 
+_(يمكنك إضافة روابط LinkedIn أو Portfolio الخاص بك هنا)_
+
+- **Linked In:** [اسمك هنا]
+- **Portfolio:** [رابط بورتفوليو آخر إذا وجد]
 -
